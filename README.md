@@ -6,7 +6,7 @@
 Juego interactivo que detecta poses humanas y desafía a las personas a simular números del 0 al 9. 
 El programa recopila el video de la cámara web, detecta la pose humana en cada fotograma y clasifica la pose en función de los ángulos de las articulaciones con ayuda de librerias como mediapipe y cv2. Luego, en la parte superior izquierda de la imagen se muestran tres números aleatorios que deben ser simulados con las poses del cuerpo. El programa se detiene cuando se presiona la tecla 'a'.
 
-Además, se tiene en cuenta que cuando ninguna pose coincide con las combinaciones previamente establecidas en el codigo aparece la leyenda "no pose detection".
+Además, se tiene en cuenta que cuando ninguna pose coincide con las combinaciones previamente establecidas en el codigo aparece la leyenda "no detection!".
 
 ![ejemplo](https://github.com/PinMafer13/PoseDigits-Game/assets/110617942/e47e3175-3760-4e24-8386-b577d68925d3)
 
