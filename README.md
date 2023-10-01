@@ -25,6 +25,11 @@ Programa en Python que utiliza las bibliotecas OpenCV (cv2), MediaPipe (mediapip
 4. Intenta realizar una pose humana con las articulaciones correctas.
 5. El programa detectará tu pose y te desafiará a crear un número correspondiente a la pose. ¡Diviértete!
 
+Acontinuación se muestran ejemplos de poses para simular los numeros del 0-9
+
+![poses_ejemplos](https://github.com/PinMafer13/PoseDigits-Game/assets/110617942/a562b8a3-708c-466f-80dd-861d6b5204e7)
+
+
 # Colaboradores👥
 
 ![colaboradores](https://github.com/PinMafer13/PoseDigits-Game/assets/110617942/f8a2ad8a-fb1b-4779-9aa5-eda3127d3983)
